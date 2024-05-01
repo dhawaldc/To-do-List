@@ -8,8 +8,8 @@ const Navbar = () => {
         </div>
         <ul className='flex gap-9 mx-9'>
             <li className='cursor-pointer hover:font-bold transition-all duration-50'>Home</li>
-            <li className='cursor-pointer hover:font-bold transition-all duration-50'>home</li>
-            <li className='cursor-pointer hover:font-bold transition-all duration-50'>home</li>
+            <li className='cursor-pointer hover:font-bold transition-all duration-50'>Your Task</li>
+            
         </ul>
     </nav>
   )
